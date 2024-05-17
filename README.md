@@ -9,10 +9,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with relavent jobs
 - 😄 Pronouns: He/Him
 
-<details>
-  <summary>Show more sections</summary>
-
-  ### Skills
+### Skills
   <table><tr><td valign="top" width="33%">
 
 
@@ -52,6 +49,3 @@ Here are some ideas to get you started:
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div> 
-
-</details>
- 
