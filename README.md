@@ -36,16 +36,6 @@
 </details>
 
 <details open>
-  <summary><b>🚚 Supply Fleet Management (Kotlin / Android)</b></summary>
-  <br>
-
-  - **Overview:** Fleet tracking and logistics coordination mobile system.
-  - **Stack:** Kotlin, Android SDK, Location & Mapping APIs
-  - **Repository:** [`Bhuvan-ACS/supply-fleet`](https://github.com/Bhuvan-ACS/supply-fleet)
-  - **Key Highlights:** Real-time asset monitoring, trip scheduling, and route handling.
-</details>
-
-<details open>
   <summary><b>📋 Task Management Mobile App (Flutter / Dart)</b></summary>
   <br>
 
