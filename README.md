@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Bhuvan 👋</h1>
-  <p><b>Mobile & Systems Developer | Flutter, Dart, Kotlin & Python</b></p>
+  <p><b>Mobile & Systems Developer | Flutter, Dart,Python</b></p>
   <p>Software developer based in Hyderabad specializing in building smooth cross-platform mobile apps & robust backends.</p>
 
   <a href="https://github.com/bhuvanvarshit">
