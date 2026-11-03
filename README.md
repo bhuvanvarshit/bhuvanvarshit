@@ -4,7 +4,7 @@
   <p>Software developer based in Hyderabad specializing in building smooth cross-platform mobile apps & robust backends.</p>
 
   <a href="https://github.com/bhuvanvarshit">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Cross-Platform+Mobile+Apps;Flutter+%7C+Dart+%7C+Kotlin+%7C+FastAPI;Clean+Architecture+%26+RESTful+APIs" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Cross-Platform+Mobile+Apps;Flutter+%7C+Dart+%7C+FastAPI;Clean+Architecture+%26+RESTful+APIs" alt="Typing SVG" />
   </a>
 </div>
 
